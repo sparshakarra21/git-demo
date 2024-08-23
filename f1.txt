@@ -1,1 +1,10 @@
+<<<<<<< HEAD
 Sparsha is  not a good girl !!!!!!!!!!!!!!!!!!!!!
+=======
+Sparsha is a good girl
+
+>>>>>>> 9c374da8a4130c57a0958465c9db6cd604d8200a
+
+
+
+Sparsha is okay
